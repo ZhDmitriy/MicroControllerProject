@@ -16,7 +16,7 @@
 
 self.directory = '/home/dmitriy/PycharmProjects/FaceIDProject/imageData' - укажите путь до своей директории, учитывая свою операционную систему (у меня Linux)
 
-CAMERA_CONFIG:
+- CAMERA_CONFIG:
   - CAMERA_URL:
       - 'http://172.20.10.11' - укажите свой IP-адрес сервера (чтобы его получить см. инструкцию ниже)
    
