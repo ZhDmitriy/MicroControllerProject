@@ -14,7 +14,7 @@
 
 **Что нужно изменить в проекте для кастомного запуска:**
 
-self.directory = '/home/dmitriy/PycharmProjects/FaceIDProject/imageData' - укажите путь до своей директории, учитывая свою операционную систему (у меня Linux)
+- self.directory = '/home/dmitriy/PycharmProjects/FaceIDProject/imageData' - укажите путь до своей директории, учитывая свою операционную систему (у меня Linux)
 
 - CAMERA_CONFIG:
   - CAMERA_URL:
