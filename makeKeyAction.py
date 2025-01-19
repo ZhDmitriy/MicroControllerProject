@@ -44,9 +44,7 @@ if __name__ == '__main__':
         try:
             while True:
                 ser.write(command.encode('utf-8'))  # Отправка команды в Arduino
-
                 break
-
         except KeyboardInterrupt:
             pass
         finally:
